@@ -15,7 +15,7 @@ class BurpExtender(IBurpExtender, IHttpListener, ITab):
         callbacks.registerHttpListener(self)
         
         # Load regex patterns from JSON file
-        self.patterns = self.load_patterns('C:\Users\d4rk\Documents\json-rules-stable.json')
+        self.patterns = self.load_patterns('FILE-PATH')
 
         # Setup GUI
         self.panel = JPanel()
