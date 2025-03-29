@@ -1,5 +1,5 @@
 # BurpRegexExtractor
-A simple Burp extension that extracts sensitive or interesting information using regex from [secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db). Huge shoutout to @mazen160! ❤️
+A simple Burp extension that extracts sensitive or interesting information using regex from [secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db). Huge shoutout to @mazen160! <3
 How to use it :
 ---------------
 
@@ -9,4 +9,4 @@ How to use it :
 
 
 
-follow me on x: [@hassko_elhadi](https://x.com/hassko_elhadi)
+follow me on x: [⚡d4rk⚡](https://x.com/hassko_elhadi)
